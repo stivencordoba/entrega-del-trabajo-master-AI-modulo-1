@@ -1,5 +1,7 @@
 import json
 
+# esto es solo para ensayar modificaciones
+
 
 def pedirEdad():
     while True:
